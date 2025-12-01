@@ -1,2 +1,2 @@
-# Meu-reposit-rio-de-autentica-es
+# Meu-repositorio-de-autenticaçoes
 Repositório
